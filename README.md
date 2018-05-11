@@ -1,4 +1,4 @@
-# Victoria Clipper GTFS
+# Victoria Clipper GTFS [![Build Status](https://travis-ci.org/zacs/victoriaclipper-gtfs.svg?branch=master)](https://travis-ci.org/zacs/victoriaclipper-gtfs)
 
 This repository hosts an up-to-date version of transit schedule data for the Victoria Clipper ferry. The data is in the [GTFS](https://developers.google.com/transit/gtfs/) format.
 

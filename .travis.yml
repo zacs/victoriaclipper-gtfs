@@ -7,4 +7,4 @@ install:
 
 script:
   - zip gtfs.zip *.txt
-  - feedvalidator.py gtfs.zip
+  - feedvalidator.py -n --output=CONSOLE gtfs.zip
