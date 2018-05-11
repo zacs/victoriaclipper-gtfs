@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+1,The Victoria Clipper,http://www.clippervacations.com/?utm_source=GTFS&utm_medium=GTFS,America/Los_Angeles,en,8008882535,http://www.clippervacations.com/schedules-fares/?utm_source=GTFS&utm_medium=GTFS

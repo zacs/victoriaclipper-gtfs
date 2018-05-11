@@ -1,0 +1,35 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1,101,101vic,Victoria,Vic,0,,4,1,1
+1,101,101sea,Seattle,Sea,1,,5,1,1
+1,102,102avic,Victoria,Vic,0,,4,1,1
+1,102,102asea,Seattle,Sea,1,,5,1,1
+1,102,102bvic,Victoria,Vic,0,,4,1,1
+1,102,102bsea,Seattle,Sea,1,,5,1,1
+1,103,103vic,Victoria,Vic,0,,4,1,1
+1,103,103sea,Seattle,Sea,1,,5,1,1
+1,104,104avic,Victoria,Vic,0,,4,1,1
+1,104,104asea,Seattle,Sea,1,,5,1,1
+1,104,104bvic,Victoria,Vic,0,,4,1,1
+1,104,104bsea,Seattle,Sea,1,,5,1,1
+1,105,105vic,Victoria,Vic,0,,4,1,1
+1,105,105sea,Seattle,Sea,1,,5,1,1
+1,106,106vic,Victoria,Vic,0,,4,1,1
+1,106,106sea,Seattle,Sea,1,,5,1,1
+1,107,107vic,Victoria,Vic,0,,4,1,1
+1,107,107sea,Seattle,Sea,1,,5,1,1
+1,108,108vic,Victoria,Vic,0,,4,1,1
+1,108,108sea,Seattle,Sea,1,,5,1,1
+1,109,109vic,Victoria,Vic,0,,4,1,1
+1,109,109sea,Seattle,Sea,1,,5,1,1
+1,111,111vic,Victoria,Vic,0,,4,1,1
+1,111,111sea,Seattle,Sea,1,,5,1,1
+1,112,112vic,Victoria,Vic,0,,4,1,1
+1,112,112sea,Seattle,Sea,1,,5,1,1
+1,113,113vic,Victoria,Vic,0,,4,1,1
+1,113,113sea,Seattle,Sea,1,,5,1,1
+2,201,201fri,Friday Harbor,Fri,0,,1,1,1
+2,201,201sea,Seattle,Sea,1,,2,1,1
+2,202,202fri,Friday Harbor,Fri,0,,1,1,1
+2,202,202sea,Seattle,Sea,1,,2,1,1
+2,203,203fri,Friday Harbor,Fri,0,,1,1,1
+2,203,203sea,Seattle,Sea,1,,2,1,1
