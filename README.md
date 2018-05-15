@@ -6,7 +6,6 @@ This repository hosts an up-to-date version of transit schedule data for the Vic
 
 ### TODO
 
-- Submit this updated feed to TransitFeeds
 - Add a build script that makes nice geoJSON-based documents in the repo itself.
 
 ## History
