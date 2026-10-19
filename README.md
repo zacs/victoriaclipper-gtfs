@@ -4,6 +4,15 @@ This repository hosts an up-to-date version of transit schedule data for the Vic
 
 *[Download the GTFS here](https://github.com/zacs/victoriaclipper-gtfs/releases/latest).*
 
+### Updating the schedule
+
+The schedule files (`calendar.txt`, `calendar_dates.txt`, `trips.txt`, `stop_times.txt` and `feed_info.txt`) are generated from the [sailings calendar](https://www.clippervacations.com/sailings/) on clippervacations.com. The rest of `src/` is edited by hand.
+
+```
+python3 scripts/update_schedule.py
+make
+```
+
 ### TODO
 
 - Add a build script that makes nice geoJSON-based documents in the repo itself.
